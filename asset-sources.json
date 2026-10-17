@@ -1,0 +1,1010 @@
+{
+  "version": 1,
+  "sources": {
+    "hd": {
+      "base": "https://raw.githubusercontent.com/19nkn80/Zuma-Deluxe-HD/5bbc256cc431ee56b5e14617b113fc466508e566/"
+    },
+    "tiny": {
+      "base": "https://raw.githubusercontent.com/ngrt/tinyzumadeluxe/20f0e9118339ec94bd3d41286495870bc2ccc413/"
+    },
+    "pogo": {
+      "archive": "https://archive.org/cors/zumadeluxe-pogogames/Zuma%20Deluxe%20%28Pogo%20Games%29.zip",
+      "sha256": "c84fc7b365391ebf01c8c365fd8538d8eb7d2e327c6434f9fdd0f50bb3a49cf9"
+    }
+  },
+  "files": {
+    "content/fonts/arial12bold.png": {
+      "source": "hd",
+      "path": "content/fonts/arial12bold.png",
+      "sha256": "c38104cbfb698034ec38eb3a8e8142c4a4db92305fd35fa7e5cc85b79490f3e8"
+    },
+    "content/fonts/cancun10.png": {
+      "source": "hd",
+      "path": "content/fonts/cancun10.png",
+      "sha256": "61dac56e1f6228eb9c5bfccf7af3cf093444bdd8be6a0c2ab0672aabb8e41365"
+    },
+    "content/fonts/cancun12.png": {
+      "source": "hd",
+      "path": "content/fonts/cancun12.png",
+      "sha256": "bee2f0536abd92fcd5d6ff82af4bf908d7753237fa28099aefb8a907f7099fd3"
+    },
+    "content/fonts/cancun13.png": {
+      "source": "hd",
+      "path": "content/fonts/cancun13.png",
+      "sha256": "966ba883f6d7f601dc53f82f2092b0e6be0715adbe0ec83a18ab8cf7b4a23522"
+    },
+    "content/fonts/cancun8.png": {
+      "source": "hd",
+      "path": "content/fonts/cancun8.png",
+      "sha256": "0a63702a14626e53dd4aee877d09f5d7aad40c1e74ac378ad834ac81039c897e"
+    },
+    "content/fonts/cancunfat8.png": {
+      "source": "hd",
+      "path": "content/fonts/cancunfat8.png",
+      "sha256": "8aa635f6fb03e8a51438e00977461f7182e1ddff04c9d1c8e4a6338d569ba9a8"
+    },
+    "content/fonts/cancunfloat14.png": {
+      "source": "hd",
+      "path": "content/fonts/cancunfloat14.png",
+      "sha256": "49263dc7d14e1e4c92d9910f855f09347ef471d74a7e8d28005a55bc7dee1048"
+    },
+    "content/fonts/cancunoutline10.png": {
+      "source": "hd",
+      "path": "content/fonts/cancunoutline10.png",
+      "sha256": "30b86519086d223764648d443145db18624e431b5bf54aac2b218ce6d1a2c0b5"
+    },
+    "content/fonts/nativealien48.png": {
+      "source": "hd",
+      "path": "content/fonts/nativealien48.png",
+      "sha256": "e24cec6feb9c1771f7887bbe0166d28fca70732d499d08359c0aa8e2a122eca6"
+    },
+    "content/fonts/nativealienextended16.png": {
+      "source": "hd",
+      "path": "content/fonts/nativealienextended16.png",
+      "sha256": "3dc1a56bd00f5d9b2ef9ee63f63e52c36eaa4c4fb22210b877047c363348ee26"
+    },
+    "content/fonts/nativealienextended18.png": {
+      "source": "hd",
+      "path": "content/fonts/nativealienextended18.png",
+      "sha256": "105aa91a65e87efc308e4bc5d613b9f98827befab341c08d0830984a768ed3c7"
+    },
+    "content/images/frog.png": {
+      "source": "hd",
+      "path": "content/images/frog.png",
+      "sha256": "c91081ab11d1d12d3ab696feff5b7d30a56a96caf420af76f12d93e2dde6f7e6"
+    },
+    "content/images/gameinterface.png": {
+      "source": "hd",
+      "path": "content/images/gameinterface.png",
+      "sha256": "67ad308768843e27669507944d14daa4dd85601eebcb6c4c014fa0751b70a63f"
+    },
+    "content/images/gameobjects.png": {
+      "source": "hd",
+      "path": "content/images/gameobjects.png",
+      "sha256": "adda6f05d63cadb02e3ce82649e0942205ef98fa1a694d4fdaf40ab103f716d3"
+    },
+    "content/images/menu.png": {
+      "source": "hd",
+      "path": "content/images/menu.png",
+      "sha256": "a07c452d8def34990c5da1cc0d6ba99ddc0d7188f9b5d5d50c39e3095a8c9741"
+    },
+    "content/original-ui/advback.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advback.jpg",
+      "sha256": "600012986ea6f4cef335193b919ac3c984ee0182d7c96e3a79a4dcd7ad01eaba"
+    },
+    "content/original-ui/advdoor1A.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor1A.jpg",
+      "sha256": "3c7431ccf7af0bf84afeb7aadfc2abfd0ac3d73eaaa094bca2c73ed5425d7b31"
+    },
+    "content/original-ui/advdoor1B.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor1B.jpg",
+      "sha256": "51ea9e1f1a807d17a2eb2c691f193b50b8754bd9f040cfbac079e73568f3fbd8"
+    },
+    "content/original-ui/advdoor1C.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor1C.jpg",
+      "sha256": "1a9c5abe847f10035d322bc4309eef172128d3bc0945edba65354986f86100b9"
+    },
+    "content/original-ui/advdoor2A.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor2A.jpg",
+      "sha256": "f8fa2e9b26f69d7cbacc3404b0dad09a9eddebc6360b0686ba9e9977b25bde75"
+    },
+    "content/original-ui/advdoor2B.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor2B.jpg",
+      "sha256": "9e749a0daa39f2124d135fb3e5e924f3199bfeae5b66ce5010cf6c5f78a598b4"
+    },
+    "content/original-ui/advdoor2C.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor2C.jpg",
+      "sha256": "c990d7eb3ab0dbc7d58076fed0afe737c76be62497373d5b4253ecf25722fe24"
+    },
+    "content/original-ui/advdoor3A.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor3A.jpg",
+      "sha256": "e6cb11dc192f5c554ca2037596aba21ac7d761d78d1da81100976c432b1f868d"
+    },
+    "content/original-ui/advdoor3B.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor3B.jpg",
+      "sha256": "8d395147cf9052351a997ad52d64c29821254622fcce034429cd38b770099423"
+    },
+    "content/original-ui/advdoor3C.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor3C.jpg",
+      "sha256": "d1e24a33e6b3401bc9c505aaeefee3fdd76f0014aa5c8e50d2c2cbe8ac36779d"
+    },
+    "content/original-ui/advdoor4A.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor4A.jpg",
+      "sha256": "55fde17402b7a58072c1fb9ea3372acfc55101943425f3349788031f45ec5253"
+    },
+    "content/original-ui/advdoor4B.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor4B.jpg",
+      "sha256": "8aeae2f81e3a02a17d63ca519c3fc1b1f83dd19b3eeaa9638eb3ca59bf911bb8"
+    },
+    "content/original-ui/advdoor4C.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advdoor4C.jpg",
+      "sha256": "0f2adb7eb064e0b8fc282aee02e7540c6c54d7899ab8fd7293e451f388ada15b"
+    },
+    "content/original-ui/advHighscore.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advHighscore.gif",
+      "sha256": "7a58417ddae194322d2b41a70e2d31398ae78a613c6308e975b773b25600ea34"
+    },
+    "content/original-ui/advmainmenubutton.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advmainmenubutton.jpg",
+      "sha256": "9f912e072442fcb01f6d75f98cbd2d1d7cdea3c4b006ec0a9a50deb2f2c81ace"
+    },
+    "content/original-ui/advmiddle.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advmiddle.jpg",
+      "sha256": "7d6d8327a369b13109b713f2a204c34d8348609a72f7bf9a341ac7443773f0b1"
+    },
+    "content/original-ui/advplaybutton.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advplaybutton.jpg",
+      "sha256": "ee3d81b37ccae889727e7af096e48d6e5c169e96679fc9b7aaf9ced165e2fb05"
+    },
+    "content/original-ui/advsky.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advsky.jpg",
+      "sha256": "36eca4823fc2df20e60d910b1c1332b130dd06f0b79a7744e17a22aa6d64e285"
+    },
+    "content/original-ui/advstage.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advstage.gif",
+      "sha256": "7bf9e671fb218f1cd997a3f5a355e524c098a2054d59a08f5e524b715e16c720"
+    },
+    "content/original-ui/advtemple1.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple1.jpg",
+      "sha256": "854122ba3cc31bf0611d6b546d03ef6b37d45c15b2e43ae6695fe6dcb26b9e92"
+    },
+    "content/original-ui/advtemple2.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple2.jpg",
+      "sha256": "4a969603c6d79ec8ca7eb1d91c9f3c7c522245fb49652e7ed0a0bb39668d4a25"
+    },
+    "content/original-ui/advtemple2v.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple2v.jpg",
+      "sha256": "a66e08a05df9d508f09a3994741affa1fe5350930de09429e848121943c35540"
+    },
+    "content/original-ui/advtemple3.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple3.jpg",
+      "sha256": "41a1086615f9a4d5b065b8432d0501af1cdadefdd7c8a27aacae46cda391c182"
+    },
+    "content/original-ui/advtemple3v.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple3v.jpg",
+      "sha256": "5d7f4dfe76998cf7f124e4abf115ec8dd2608c4d723dd444c490264ba5e579fc"
+    },
+    "content/original-ui/advtemple4.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtemple4.jpg",
+      "sha256": "f5df93e0939f1b49cddfeb261a1447a5a96ed95d67e19e1d9f528199ad3734fc"
+    },
+    "content/original-ui/advtitle.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/advtitle.jpg",
+      "sha256": "b1975fcfeb98a1e49e2c97c70f19539f759c2c3d4afd4d5bc794f64441fde959"
+    },
+    "content/original-ui/checkboxcap.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/checkboxcap.gif",
+      "sha256": "72b236be7b9153331ad42c5abf784bde07a7207dfd3dd64233142c1c525fdfc0"
+    },
+    "content/original-ui/checkboxsliver.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/checkboxsliver.gif",
+      "sha256": "7a5adc039b32836875318a146a969cc57c7ea7ba36bd1bdeb067375c36ff8aa9"
+    },
+    "content/original-ui/cursor_dragging.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/cursor_dragging.gif",
+      "sha256": "568505aa0492538f53c69f0e56e0b7b4b562f5868bf6f34be734a937d3949563"
+    },
+    "content/original-ui/cursor_hand.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/cursor_hand.gif",
+      "sha256": "b695c19573ace2ca1873e2ee36d20fca0f6a2a3e214deb1f27c7d1aa2351920d"
+    },
+    "content/original-ui/cursor_pointer.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/cursor_pointer.gif",
+      "sha256": "5e2ce069e2527eb4b1287304d93e3d40ae99aabb83fcf3ebc48125f7b1f50d18"
+    },
+    "content/original-ui/cursor_text.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/cursor_text.gif",
+      "sha256": "37a4e5bc39d24d81e23c245dbe22097cedad5ea0394115e0bbe07715b3755e1c"
+    },
+    "content/original-ui/GauntEagleGem.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/GauntEagleGem.gif",
+      "sha256": "9426c91bf5a6f38111d7afcd5b1af02cb75486bb187b324b4141b33e5adeef69"
+    },
+    "content/original-ui/GauntHighscore.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/GauntHighscore.gif",
+      "sha256": "0b262e906d4ea27dadb79e7cbb3f19d2b8993604ac577d33250ca24b866d5e90"
+    },
+    "content/original-ui/GauntJaguarGem.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/GauntJaguarGem.gif",
+      "sha256": "313809249bfe9a382882c20b44529aba218b6fe3ff0709855609783296475c91"
+    },
+    "content/original-ui/gauntpracticebutton.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/gauntpracticebutton.jpg",
+      "sha256": "6a2297247b91107f00614cd9754efc75c99e77fdb7227c8664a781b98cbe45bc"
+    },
+    "content/original-ui/GauntSUNGEM.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/GauntSUNGEM.gif",
+      "sha256": "a909c40c0f310fe23996cc29d63310015342de01f1d011f2791e7d094f4cbf7d"
+    },
+    "content/original-ui/gauntsurvivalbutton.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/gauntsurvivalbutton.jpg",
+      "sha256": "139b7308578d3906402b7c752561709d330ada5d57569f41a1f695e5e07b4473"
+    },
+    "content/original-ui/GauntTitle.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/GauntTitle.gif",
+      "sha256": "7ad62b212cb3c3f332b6751d93802004a1b4b0ca8a4abfe1ab1aa19892dfd49c"
+    },
+    "content/original-ui/happyending.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/happyending.jpg",
+      "sha256": "aea76e12c8e019947912cc82a3423fd0ce6169d687d07d098e194b4c9c7f1be0"
+    },
+    "content/original-ui/helpback.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/helpback.jpg",
+      "sha256": "db09cfdb224fb2272e3de8ab6fbf55584310cd1ae9dfca59ff42ca082ca5f0ba"
+    },
+    "content/original-ui/helpfront.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/helpfront.jpg",
+      "sha256": "20ca708d4952f90a8528232714f7f87aae3daed51986dbede355074293060827"
+    },
+    "content/original-ui/mmeyeleft.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/mmeyeleft.gif",
+      "sha256": "7d255e002909e1c2c202807feacf93af2be2e0fa5949758ab86f167df936e559"
+    },
+    "content/original-ui/mmeyeright.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/mmeyeright.gif",
+      "sha256": "74ece9244b210873a5f37b5450f6c9f5b775f85aadf18df5850ba4065c9bee82"
+    },
+    "content/original-ui/mmhat.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/mmhat.jpg",
+      "sha256": "2addc27d72b4242fee60f84a6999077bacb52e13c66897eb7fa5d6d70fbf1628"
+    },
+    "content/original-ui/mmscreen.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/mmscreen.jpg",
+      "sha256": "271d9a4858148e9aa7e2a7bbff752e061ce0f548746829b69b0b3bb9d97841e4"
+    },
+    "content/original-ui/mmUFO.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/mmUFO.jpg",
+      "sha256": "caa8a7d9b1ad0df2eb98ec6d7db10eb49cf2e2f4b2bf774e8158b0bdc4feede2"
+    },
+    "content/original-ui/tut_mouse_r.jpg": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/tut_mouse_r.jpg",
+      "sha256": "511137d9ac1acf3125c3ff21ae12fb95417fc56e0d6778ee7af9dd1ae74a88a3"
+    },
+    "content/original-ui/_advback.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advback.gif",
+      "sha256": "05b08e99f2f7715acf3541bbaf95e95f9bb30b1f7d1f0619880387e9bb5a69f5"
+    },
+    "content/original-ui/_advdoor1A.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor1A.gif",
+      "sha256": "1a9658987b4d65ddae87252f08981034cbc26a32e147a8be4954af2abf30fb00"
+    },
+    "content/original-ui/_advdoor1B.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor1B.gif",
+      "sha256": "e8e3dc54aa577b22457640d935ab81e17c92dbb35e5762f7c3d8e9d3b6d7db67"
+    },
+    "content/original-ui/_advdoor1C.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor1C.gif",
+      "sha256": "e8092442e0687df57ddbd66ce3334c46f92c1b7f9b2694bd175579e582ff7c8b"
+    },
+    "content/original-ui/_advdoor2A.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor2A.gif",
+      "sha256": "015a4abcf53b208c771d6b5acaeb9db8d2bd28a72a1d57df2b8f58156c197b0e"
+    },
+    "content/original-ui/_advdoor2B.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor2B.gif",
+      "sha256": "6aff3720a61c7677dd4365da58fdaad14c7563085ba0b3ff3987b715f173043e"
+    },
+    "content/original-ui/_advdoor2C.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor2C.gif",
+      "sha256": "db93ab4aff5cea4ddbaee7bb451e27839a86804b4d09c01d733b2053639055f7"
+    },
+    "content/original-ui/_advdoor3A.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor3A.gif",
+      "sha256": "5c97faff4016400c20a9d2ff38d703bdc5db42232f624047887b416d9fe89a23"
+    },
+    "content/original-ui/_advdoor3B.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor3B.gif",
+      "sha256": "9350020e06de47256adfd79f6191a560e5f8cdcf6aed87243c68666bded35511"
+    },
+    "content/original-ui/_advdoor3C.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor3C.gif",
+      "sha256": "6af7f28c461bdfce9dc016588b4a4e17e0c247d1813cadbc0f58162f14386eed"
+    },
+    "content/original-ui/_advdoor4A.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor4A.gif",
+      "sha256": "1665428920f627dd9180e499da52049d95577d301f7056e5f914cc5b94937242"
+    },
+    "content/original-ui/_advdoor4B.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor4B.gif",
+      "sha256": "eb8de1188b00216b0e1ade7cdc7773ceb9b3689fb3aeabbcbc25521d70c8d068"
+    },
+    "content/original-ui/_advdoor4C.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advdoor4C.gif",
+      "sha256": "2490ed71fb414d5b9c72bb483375754284bb2324c9d4de4dc1e8b89ac357bd64"
+    },
+    "content/original-ui/_advHighscore.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advHighscore.gif",
+      "sha256": "4f68ce343c6d7605e97732145d74a65f5d8e400377d49560a80c5b9093869758"
+    },
+    "content/original-ui/_advmainmenubutton.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advmainmenubutton.gif",
+      "sha256": "6aae6fd8f2c7781f3125f7d9d84eb94d607da4c5f0df9ec302b39ec5d6a50c5f"
+    },
+    "content/original-ui/_advmiddle.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advmiddle.gif",
+      "sha256": "bd4c9bcae6b14e056a37f0b394050bd8c26a2e2d61fbe3f80014a12d248b58b0"
+    },
+    "content/original-ui/_advplaybutton.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advplaybutton.gif",
+      "sha256": "1092934b6144fe23deb1a5fa5a3263c6e35dc7520136202c1ee74bccbca19a65"
+    },
+    "content/original-ui/_advtemple1.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple1.gif",
+      "sha256": "e0bde83d9a9a29087598577fb4677f28117864c38ec61967017c9d649bbe6abe"
+    },
+    "content/original-ui/_advtemple2.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple2.gif",
+      "sha256": "b151c0d41c740474c6cd15cf5e28b156bacd21179bd2283d1d2748cf4059a197"
+    },
+    "content/original-ui/_advtemple2v.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple2v.gif",
+      "sha256": "14897f9c2d828d259f670dff408e2230ee5c3c3e71f2370fa85251fd571ce9d4"
+    },
+    "content/original-ui/_advtemple3.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple3.gif",
+      "sha256": "a95d358b00d89619c1e4f20014a8f1abb7755333fb2c9c96ddde766616897973"
+    },
+    "content/original-ui/_advtemple3v.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple3v.gif",
+      "sha256": "07f439534ffd5b852e1039ea32f4c263f97fa49b686888e24ed93d2d7a7a92e8"
+    },
+    "content/original-ui/_advtemple4.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advtemple4.gif",
+      "sha256": "ff36bd6c3d484c9a058567d42f2e97c8edd04eb5458e05ca8e7039eb35ea6780"
+    },
+    "content/original-ui/_advTitle.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_advTitle.gif",
+      "sha256": "f953ca8a7d20c66dd66006652c9a00a26bf15c7b21c1d3070cf97e3a8fe50d8e"
+    },
+    "content/original-ui/_checkboxcap.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_checkboxcap.gif",
+      "sha256": "7ed4a2a715a97e8a4e4b6542a6f7896a90971e09442385daf01b00add788e351"
+    },
+    "content/original-ui/_checkboxsliver.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_checkboxsliver.gif",
+      "sha256": "3d668b861c14dccdbc897d20c5f36490db53ba16869f90d572c9caa9c2db7208"
+    },
+    "content/original-ui/_GauntEagleGem.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_GauntEagleGem.gif",
+      "sha256": "a63ba1e1f070730bfd35f21d435c27438b43217bfecfd1c979aa5bdafee25d49"
+    },
+    "content/original-ui/_GauntHighscore.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_GauntHighscore.gif",
+      "sha256": "b1b90b77b354d0255c86c6f0d17894ee9f9ac8c931acb860fb67aef9fb6169ff"
+    },
+    "content/original-ui/_GauntJaguarGem.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_GauntJaguarGem.gif",
+      "sha256": "08fbaded68050c59e435484ffa280c655454812d3109fab4032e0d506554e9e1"
+    },
+    "content/original-ui/_gauntpracticebutton.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_gauntpracticebutton.gif",
+      "sha256": "05544dbcc44c6f421d8bffad8257fce2e1d128713c8824cf40c7bfb77d17a1fe"
+    },
+    "content/original-ui/_GauntSUNGEM.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_GauntSUNGEM.gif",
+      "sha256": "8232fdfcd934ef396945ca2612bf7044ce8debe9a901f537f0a2f292aeba288f"
+    },
+    "content/original-ui/_gauntsurvivalbutton.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_gauntsurvivalbutton.gif",
+      "sha256": "ed628bc3955b22613233decb17292cb5482f0a6f6d02ed34cba4659d44c1c390"
+    },
+    "content/original-ui/_GauntTitle.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_GauntTitle.gif",
+      "sha256": "0e391969a41f2f69dbeff93afc52e5ae1f2f3f1b9d316649d314cc8545255b63"
+    },
+    "content/original-ui/_helpfront.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_helpfront.gif",
+      "sha256": "32def448f1fe8617bd9d49abc9fdd1ca3ef67c8c00a6a53671f5f50654cc9a16"
+    },
+    "content/original-ui/_mmeyeleft.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_mmeyeleft.gif",
+      "sha256": "765fb7c2146b693fa734423f3bec938f93bd64153cd5029f16e880ca9294c429"
+    },
+    "content/original-ui/_mmeyemask.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_mmeyemask.gif",
+      "sha256": "dee2560007b8eeb660731b4ebc21e7e21d6b71e3a9d43d23049d0eb4d06987c5"
+    },
+    "content/original-ui/_mmeyeright.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_mmeyeright.gif",
+      "sha256": "c0e80e51941810245997215dac56668f60d0a2766c71d935fc5cc60beb278d0e"
+    },
+    "content/original-ui/_mmhat.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_mmhat.gif",
+      "sha256": "28ac909cb3a540cff733f7be59cbd5066a8ca1e498f20b65b829ad1bda51cfbb"
+    },
+    "content/original-ui/_mmUFO.gif": {
+      "source": "pogo",
+      "path": "Zuma Deluxe (Pogo Games)/images/_mmUFO.gif",
+      "sha256": "b5c54d04d8a3f5a4e8ee39e1fb4a3ea36ce9f31a420e677de9ad9110621902be"
+    },
+    "content/sounds/accuracy3.ogg": {
+      "source": "hd",
+      "path": "content/sounds/accuracy3.ogg",
+      "sha256": "86add441413811a95e802aa23d9edebf34f69b579dd561d31b7ca0e6be284efd"
+    },
+    "content/sounds/ballclick1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballclick1.ogg",
+      "sha256": "06ca0b4c085aff05a4836c8717178602e55fed15bd29556b22b2fd4acffe353d"
+    },
+    "content/sounds/ballclick2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballclick2.ogg",
+      "sha256": "653162ffc6efb2f4e1676d6d45136951ed4ca4ffbc7df6aa8633b480f1ee5c82"
+    },
+    "content/sounds/ballsdestroyed1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballsdestroyed1.ogg",
+      "sha256": "eb74cab2fab1232da93ec0156026eedb1cbe32eb01ba325348c83258bcd88a9b"
+    },
+    "content/sounds/ballsdestroyed2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballsdestroyed2.ogg",
+      "sha256": "9a9cbc2a81b1cae3bc210d121a05aed72b9067f70ae2ecab75775f12629b5d13"
+    },
+    "content/sounds/ballsdestroyed3.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballsdestroyed3.ogg",
+      "sha256": "b233ab862fca8d64f31865936f6f7dd68639cf5d5b80e54852eae8f609d22a1b"
+    },
+    "content/sounds/ballsdestroyed4.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballsdestroyed4.ogg",
+      "sha256": "effe9dff2741db4aae41450b728ee5c36f705328f2c073b5a16586f9b18c0372"
+    },
+    "content/sounds/ballsdestroyed5.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ballsdestroyed5.ogg",
+      "sha256": "c5a72ebe3b986403d068ffbd64f8de358ceeac91611b162f9913e546d7d95866"
+    },
+    "content/sounds/bombexplode.ogg": {
+      "source": "hd",
+      "path": "content/sounds/bombexplode.ogg",
+      "sha256": "7c313dcee7957defae5818e75a553a488bd9069d974f638234c55df6cba7df93"
+    },
+    "content/sounds/button1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/button1.ogg",
+      "sha256": "2635cf2415e58b7678ff6857e7c5de1803b62c7644c18a806b903a9e268ed331"
+    },
+    "content/sounds/button2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/button2.ogg",
+      "sha256": "e87e6ca793b8f2be8233c8862c6988061408f98f37170c94f6f4ffbde1d5dcb1"
+    },
+    "content/sounds/chain1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chain1.ogg",
+      "sha256": "6233aa4a0f6c1557595630a24bf62e2dd90526b86017faa25264d765bf8c32e1"
+    },
+    "content/sounds/chant1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant1.ogg",
+      "sha256": "b8586e6f1e7c997bb5854294c40b81d6da2f5c9427bda94216fad9c1575910b1"
+    },
+    "content/sounds/chant14.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant14.ogg",
+      "sha256": "cb969d5938f99aed15b2396da5302d5ddc7daa73fe3bbc8960a69272eddf8195"
+    },
+    "content/sounds/chant2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant2.ogg",
+      "sha256": "4e316c9bc00525edae1d4fcf88c0a8ca64c7ec9fdb4261cf706a4c2a07106ed0"
+    },
+    "content/sounds/chant3.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant3.ogg",
+      "sha256": "336707906948e72943ba14fd02f18a6d6b3625e0a0cf2932c1ef3001f9131158"
+    },
+    "content/sounds/chant4.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant4.ogg",
+      "sha256": "18867c9e806dbfbb89da5370953cc3a19819842ecbd480da088fa5af31ac88da"
+    },
+    "content/sounds/chant5.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant5.ogg",
+      "sha256": "761d870831600ed5fc6b97809d22b1456db6167387fb97832f1a8f6ec83a3659"
+    },
+    "content/sounds/chant6.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant6.ogg",
+      "sha256": "9888dc15dfbc9a0d24b18f0c38844f3aae9ea2c06ebd2007922e5e6efdc5d57b"
+    },
+    "content/sounds/chant8.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chant8.ogg",
+      "sha256": "2875c38b3c34bee3884e7a08e0afb4b39618089ce37a6fe4b6b58b703ce98ba6"
+    },
+    "content/sounds/chime1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/chime1.ogg",
+      "sha256": "5fa0053b6039e8160371cf0dafa89f157c053a819efe93650234f19041c0fff3"
+    },
+    "content/sounds/choral1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/choral1.ogg",
+      "sha256": "3bf586208fed67cb86316bf2848ecc683a9952da64252b153aafda19ced5f647"
+    },
+    "content/sounds/coingrab.ogg": {
+      "source": "hd",
+      "path": "content/sounds/coingrab.ogg",
+      "sha256": "8a33ef09859cff97b96b3df1bb9d4e4ba839eee171d07f27e043e2ffdb281fa1"
+    },
+    "content/sounds/earthquake.ogg": {
+      "source": "hd",
+      "path": "content/sounds/earthquake.ogg",
+      "sha256": "218e744d520ff6ad43950378afa85a23f925aa11580d3b525b93de536db24735"
+    },
+    "content/sounds/endoflevelpop1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/endoflevelpop1.ogg",
+      "sha256": "aaf763538b9a7d12bac780f0a62bdecf976ad6b24b077ea8a2962aef065a267e"
+    },
+    "content/sounds/extralife.ogg": {
+      "source": "hd",
+      "path": "content/sounds/extralife.ogg",
+      "sha256": "eb673f04878bee101297ed2f5e3abdbc58064710e12578af0421d28fd5e2fbbe"
+    },
+    "content/sounds/fireball1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/fireball1.ogg",
+      "sha256": "4c9a3e2962c7bdfc9432240c4480004b1a28c3e235bb859ce1e0ebe68e1ef527"
+    },
+    "content/sounds/frogland2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/frogland2.ogg",
+      "sha256": "e22ff255b9dee2156b0fa7846de28b682a2717e72710081d2944f6ef1ff7a353"
+    },
+    "content/sounds/gapbonus1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/gapbonus1.ogg",
+      "sha256": "59dc8f530e61ecd2ce037755fea4f39041e632973858c7cd8d2f92e623db728e"
+    },
+    "content/sounds/gemvanishes.ogg": {
+      "source": "hd",
+      "path": "content/sounds/gemvanishes.ogg",
+      "sha256": "cfbb06e1b0c18c1bb276233c5b994d46d184c94f805ff7eea868af947dc9d2cd"
+    },
+    "content/sounds/jewelappear.ogg": {
+      "source": "hd",
+      "path": "content/sounds/jewelappear.ogg",
+      "sha256": "0a0451ce6f03bd817f57bb4152607343a3d8abd0e6fe4dd62da6f48e9f30a36a"
+    },
+    "content/sounds/lighttrail2.ogg": {
+      "source": "hd",
+      "path": "content/sounds/lighttrail2.ogg",
+      "sha256": "e824b9ec510f4ac0fed1b797a4634a5fe68b30d64beeae2aa74ebc0b6620bf21"
+    },
+    "content/sounds/pop.ogg": {
+      "source": "hd",
+      "path": "content/sounds/pop.ogg",
+      "sha256": "7eca9dd2aedd1bb52bd7b9f34aca6f2b2a3041d280f0fd679005a02c23c650a8"
+    },
+    "content/sounds/reverse1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/reverse1.ogg",
+      "sha256": "e255e969f9a5674e0529ad5797052c9388a8e88242f4958db4ad7a4658541184"
+    },
+    "content/sounds/rolling.ogg": {
+      "source": "hd",
+      "path": "content/sounds/rolling.ogg",
+      "sha256": "6d043a2025df20e356587959a39b82299eb0cd862d2c3b0eef02be7d2fc1b8bf"
+    },
+    "content/sounds/slowdown1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/slowdown1.ogg",
+      "sha256": "5ddee8793a55ea7f228531f2464688e52376c1800ad8784d80fd255eea61183b"
+    },
+    "content/sounds/ufo1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/ufo1.ogg",
+      "sha256": "6552f95e566637434ef8e866baf5052f494efc1f272a0803c3a9ccc348197d98"
+    },
+    "content/sounds/warning1.ogg": {
+      "source": "hd",
+      "path": "content/sounds/warning1.ogg",
+      "sha256": "92fd8b3c2ad95791b063fae2179210f014be5f64a2cde0b3a15ef9808428a803"
+    },
+    "content/levels/Blackswirley/blackswirley-1.dat": {
+      "source": "hd",
+      "path": "content/levels/Blackswirley/blackswirley-1.dat",
+      "sha256": "583a1d7ff9f6b2fd5630931db8f12d597039ce38b2a8f10e03c9e1446285b931"
+    },
+    "content/levels/Blackswirley/blackswirley-2.dat": {
+      "source": "hd",
+      "path": "content/levels/Blackswirley/blackswirley-2.dat",
+      "sha256": "d52818f8395fec1b65f673a5c0d332c4f5d7f298e85c3bdeec017d32a370e0b3"
+    },
+    "content/levels/Blackswirley/blackswirley.jpg": {
+      "source": "hd",
+      "path": "content/levels/Blackswirley/blackswirley.jpg",
+      "sha256": "d7825fd258ffa7f9027432f636cb1b3433e7104d4d91c431d8de2d4fbce2a2cf"
+    },
+    "content/levels/claw/claw.dat": {
+      "source": "hd",
+      "path": "content/levels/claw/claw.dat",
+      "sha256": "1ebd940f32e194df7d282df6d36cbffd1fc8bfcdc716d742291241be4e8b66d0"
+    },
+    "content/levels/claw/claw.jpg": {
+      "source": "hd",
+      "path": "content/levels/claw/claw.jpg",
+      "sha256": "e4870c7adee79539258a9ce313f0dea9011c1b2998adbd491dd97ae331d8eded"
+    },
+    "content/levels/coaster/coaster.dat": {
+      "source": "hd",
+      "path": "content/levels/coaster/coaster.dat",
+      "sha256": "f09656549fec04382cb75491a6544cd423de21bdcdabdb55867f20a43402ec26"
+    },
+    "content/levels/coaster/coaster.jpg": {
+      "source": "hd",
+      "path": "content/levels/coaster/coaster.jpg",
+      "sha256": "d73e37a5416bd0db695a42e20ffd3b6c5e50d3c509b94c876d658989e4bd7d97"
+    },
+    "content/levels/coaster/coaster.png": {
+      "source": "hd",
+      "path": "content/levels/coaster/coaster.png",
+      "sha256": "bb050e29a1a5c3a1f706777cc2b4c0b28dd7e14037ea1b4b471e2ff552fb0844"
+    },
+    "content/levels/groovefest/groovefest.dat": {
+      "source": "hd",
+      "path": "content/levels/groovefest/groovefest.dat",
+      "sha256": "49dfd3eea1f4d8b885f0bf5c3d2dbb531a800a5b9f7c5433319c64321e8aa74f"
+    },
+    "content/levels/groovefest/groovefest.jpg": {
+      "source": "hd",
+      "path": "content/levels/groovefest/groovefest.jpg",
+      "sha256": "d0c38fb60a94b8914775c13779a48da4b8888237396153416547983b5e569908"
+    },
+    "content/levels/groovefest/groovefest.png": {
+      "source": "hd",
+      "path": "content/levels/groovefest/groovefest.png",
+      "sha256": "8a7d95e25634070eba5fd88f94814b4ee100a4e130e133b600656406dc3cd6f9"
+    },
+    "content/levels/inversespiral/inversespiral.dat": {
+      "source": "hd",
+      "path": "content/levels/inversespiral/inversespiral.dat",
+      "sha256": "d6b83b8723ca4ae09e9eada757bf1db4df9dae5e563a831a2d112b18661a3763"
+    },
+    "content/levels/inversespiral/inversespiral.jpg": {
+      "source": "hd",
+      "path": "content/levels/inversespiral/inversespiral.jpg",
+      "sha256": "477a4c4fb694a0db6c2db5b1887101e0f64258141d971195ba1d9178a1eac8d1"
+    },
+    "content/levels/inversespiral/inversespiral.png": {
+      "source": "hd",
+      "path": "content/levels/inversespiral/inversespiral.png",
+      "sha256": "8e53a873c5d858659a098e6618bb965bfd59b1c26cab547488a94b42e679a904"
+    },
+    "content/levels/longrange/longrange.dat": {
+      "source": "hd",
+      "path": "content/levels/longrange/longrange.dat",
+      "sha256": "36b272e7bc4fd3570f3ae911c40e43c5f835c731496c8aa8526f70f84d3cf6c1"
+    },
+    "content/levels/longrange/longrange.jpg": {
+      "source": "hd",
+      "path": "content/levels/longrange/longrange.jpg",
+      "sha256": "1dd3752c90a1777166d52723f34f49a9496841e9358a84960aeddcda08278112"
+    },
+    "content/levels/loopy/loopy.dat": {
+      "source": "hd",
+      "path": "content/levels/loopy/loopy.dat",
+      "sha256": "45babb9dc04c5e8e1cb944e415e8e6acb45b0061c9ab3c78e12154ff23d06512"
+    },
+    "content/levels/loopy/loopy.jpg": {
+      "source": "hd",
+      "path": "content/levels/loopy/loopy.jpg",
+      "sha256": "1a7252e25bd3c25d425bc93999886303ca89dc38cd6167787f8f054a2ca8a336"
+    },
+    "content/levels/loopy/loopy.png": {
+      "source": "hd",
+      "path": "content/levels/loopy/loopy.png",
+      "sha256": "e10b59e0f4547e262ec90dac9f2b76592cc99268ca1dc8d6672c641768de4968"
+    },
+    "content/levels/overunder/overunder.dat": {
+      "source": "hd",
+      "path": "content/levels/overunder/overunder.dat",
+      "sha256": "95ba6fadf0fc63a36eb7ee45d815a238c41c3d4eb15727e19fafab3079b38a0b"
+    },
+    "content/levels/overunder/overunder.jpg": {
+      "source": "hd",
+      "path": "content/levels/overunder/overunder.jpg",
+      "sha256": "89557c28d3ac2c728343d29b6f0e4c48b13844f6b671616e1eb5bee422455001"
+    },
+    "content/levels/overunder/overunder.png": {
+      "source": "hd",
+      "path": "content/levels/overunder/overunder.png",
+      "sha256": "d653dc390339b1ef850b00a5284f1e787511642fdd83917c1906bcdb9077540b"
+    },
+    "content/levels/riverbed/riverbed.dat": {
+      "source": "hd",
+      "path": "content/levels/riverbed/riverbed.dat",
+      "sha256": "4b6ad62a30008d90d3b2e43ccae89f9dd03a0e3f334a39325196a92289db6dbe"
+    },
+    "content/levels/riverbed/riverbed.jpg": {
+      "source": "hd",
+      "path": "content/levels/riverbed/riverbed.jpg",
+      "sha256": "2095bcb5f4caa5f31c13ee59a4be9e48de28b551abd16f75d0bbe1f4006bbea1"
+    },
+    "content/levels/serpents/serpents-1.dat": {
+      "source": "hd",
+      "path": "content/levels/serpents/serpents-1.dat",
+      "sha256": "3050a71974cb6834343465c97d072d4973ca4399625bbcb7f57db5ff3e7d6553"
+    },
+    "content/levels/serpents/serpents-2.dat": {
+      "source": "hd",
+      "path": "content/levels/serpents/serpents-2.dat",
+      "sha256": "2df562334453faced7ebdccb7a979224512112b834570f290af1ed8566a51078"
+    },
+    "content/levels/serpents/serpents.jpg": {
+      "source": "hd",
+      "path": "content/levels/serpents/serpents.jpg",
+      "sha256": "223f3bf8c1f9212afd4dc036cda1d67d4a460d8d43e1ce52991c81ef0036ad6f"
+    },
+    "content/levels/serpents/_serpentsb.gif": {
+      "source": "tiny",
+      "path": "levels/serpents/_serpentsB.gif",
+      "sha256": "0159646b2bc61d2ce26274ef40f3898590f9da69875abff2f4c540fc5389ab08"
+    },
+    "content/levels/serpents/_serpentsm.gif": {
+      "source": "tiny",
+      "path": "levels/serpents/_serpentsM.gif",
+      "sha256": "99e1cb8e32258bf1fd5b0b1e11adfaf63d7f52a3979a6c6539afe709cc6d3366"
+    },
+    "content/levels/serpents/_serpentst.gif": {
+      "source": "tiny",
+      "path": "levels/serpents/_serpentsT.gif",
+      "sha256": "c40574a9d046513889760c9749c89c0ea52ba6d3604fda94739f8e4a50116cf4"
+    },
+    "content/levels/snakepit/snakepit-1.dat": {
+      "source": "hd",
+      "path": "content/levels/snakepit/snakepit-1.dat",
+      "sha256": "2b2b755b92ffdd5537dd4fc7873b4672d6b4c5d91e1ec156ddb5906605313930"
+    },
+    "content/levels/snakepit/snakepit-2.dat": {
+      "source": "hd",
+      "path": "content/levels/snakepit/snakepit-2.dat",
+      "sha256": "ec01c7c06179a3253079be02141ad0904abb9a340337a1755057f50f7c6c1f5c"
+    },
+    "content/levels/snakepit/snakepit.jpg": {
+      "source": "hd",
+      "path": "content/levels/snakepit/snakepit.jpg",
+      "sha256": "8f8022db50f1ff1552958cea8395baa456a24bedf4deaa68aaa02e6f0018434b"
+    },
+    "content/levels/space/space.dat": {
+      "source": "hd",
+      "path": "content/levels/space/space.dat",
+      "sha256": "724aac6d04c5e69e1191d2b064a537ec1eaf9cddac6a40e66ec6e57b881da8c6"
+    },
+    "content/levels/spaceinvaders/spaceinvaders.dat": {
+      "source": "hd",
+      "path": "content/levels/spaceinvaders/spaceinvaders.dat",
+      "sha256": "f6e8ec89e376feb29c8de0e3fa1428a87b5abae80ef8266ca576bb09475e7d17"
+    },
+    "content/levels/spaceinvaders/spaceinvaders.jpg": {
+      "source": "hd",
+      "path": "content/levels/spaceinvaders/spaceinvaders.jpg",
+      "sha256": "485791747507e185f91ba9f482f98a3800af1601d191488845e720fa1c437200"
+    },
+    "content/levels/spaceinvaders/spaceinvaders.png": {
+      "source": "hd",
+      "path": "content/levels/spaceinvaders/spaceinvaders.png",
+      "sha256": "dd53d6f3c684cb7d3d2cc2a4748d68d847884aadadbfdbd92e55c151a996c7a9"
+    },
+    "content/levels/spiral/spiral.dat": {
+      "source": "hd",
+      "path": "content/levels/spiral/spiral.dat",
+      "sha256": "f6b0b4891d32848e4040145d454706f4d0557cd916f9708e0c92064691bee6f4"
+    },
+    "content/levels/spiral/spiral.jpg": {
+      "source": "hd",
+      "path": "content/levels/spiral/spiral.jpg",
+      "sha256": "456385002041630c25eea21fd484bb872bdaed3d00fdfe3434ce0d35150cd5fb"
+    },
+    "content/levels/squaresville/squaresville.dat": {
+      "source": "hd",
+      "path": "content/levels/squaresville/squaresville.dat",
+      "sha256": "7fb1c137e3acb055e09c3cdbc2f5e9985c6196c74075d5bfe29fd41dc6a2c9cf"
+    },
+    "content/levels/squaresville/squaresville.jpg": {
+      "source": "hd",
+      "path": "content/levels/squaresville/squaresville.jpg",
+      "sha256": "4b2f97eb3b2f115811ccba1188c28033b201f4d956815bb48f9062d79d27b032"
+    },
+    "content/levels/targetglyph/targetglyph.dat": {
+      "source": "hd",
+      "path": "content/levels/targetglyph/targetglyph.dat",
+      "sha256": "307812fc0f213dadea77520db80036e06a2f60d9c227bc5319925790e095cc97"
+    },
+    "content/levels/targetglyph/targetglyph.jpg": {
+      "source": "hd",
+      "path": "content/levels/targetglyph/targetglyph.jpg",
+      "sha256": "83d6507af014496193b0fb51227ca1d6361dabdf3846a1cf932a29f30f0452cf"
+    },
+    "content/levels/tiltspiral/tiltspiral.dat": {
+      "source": "hd",
+      "path": "content/levels/tiltspiral/tiltspiral.dat",
+      "sha256": "49df4c3a836ac5ea52a9697cfa6935ff32d2b653b97d0cbfcf9e400581470ba8"
+    },
+    "content/levels/tiltspiral/tiltspiral.jpg": {
+      "source": "hd",
+      "path": "content/levels/tiltspiral/tiltspiral.jpg",
+      "sha256": "66ce7429706c39c286006241584308201b76013d6772d229185590b796e155dc"
+    },
+    "content/levels/triangle/triangle.dat": {
+      "source": "hd",
+      "path": "content/levels/triangle/triangle.dat",
+      "sha256": "411522e09255df205c1fe6bb184e12021cc15f0d6e74d534a7011e3c8ac6de83"
+    },
+    "content/levels/triangle/triangle.jpg": {
+      "source": "hd",
+      "path": "content/levels/triangle/triangle.jpg",
+      "sha256": "b790a5b93e2b98e25535a9b6edd45e64fcc96fe29dd7dcd854dbd2c9b9b0e8df"
+    },
+    "content/levels/tunnellevel/tunnellevel.dat": {
+      "source": "hd",
+      "path": "content/levels/tunnellevel/tunnellevel.dat",
+      "sha256": "77fa0a9023369f22bc942fd9bc742b68a9edb9943e9f31b0898fa0dd930c2ace"
+    },
+    "content/levels/tunnellevel/tunnellevel.jpg": {
+      "source": "hd",
+      "path": "content/levels/tunnellevel/tunnellevel.jpg",
+      "sha256": "b60685b2e4e6fecc5827b069cfbf0ffe2de48c09dc6f0ab36ca24ccaaa83d9b5"
+    },
+    "content/levels/tunnellevel/tunnellevel.png": {
+      "source": "hd",
+      "path": "content/levels/tunnellevel/tunnellevel.png",
+      "sha256": "68f108e8fe15e70aa2fdecbd3025839a104c5cb608f92c841d2e4e5dd228fecc"
+    },
+    "content/levels/turnaround/turnaround.dat": {
+      "source": "hd",
+      "path": "content/levels/turnaround/turnaround.dat",
+      "sha256": "41aca22dea5a8da67af201ba847bcec5700856260aa24dbca9736a0f5ab57131"
+    },
+    "content/levels/turnaround/turnaround.jpg": {
+      "source": "hd",
+      "path": "content/levels/turnaround/turnaround.jpg",
+      "sha256": "d897fb3150ad3fd0045c9a09ef2999d37cbf0dcb09adf31ae6aed53d5a82c368"
+    },
+    "content/levels/underover/underover.dat": {
+      "source": "hd",
+      "path": "content/levels/underover/underover.dat",
+      "sha256": "2f311c45003ec200a2812fb2ff2c8d47bf08971c9076fc7cf9f22427c9e32650"
+    },
+    "content/levels/underover/underover.jpg": {
+      "source": "hd",
+      "path": "content/levels/underover/underover.jpg",
+      "sha256": "abfdbe1950ca2a798df1649f5e18a498b9b4bed16b60c5eaf3eefdb1856171f2"
+    },
+    "content/levels/underover/underover.png": {
+      "source": "hd",
+      "path": "content/levels/underover/underover.png",
+      "sha256": "8f87849c732e8bdb8de41f57531b71a7747aa880421171bae8c89b881b5db0dd"
+    },
+    "content/levels/warshak/warshak.dat": {
+      "source": "hd",
+      "path": "content/levels/warshak/warshak.dat",
+      "sha256": "1bb6ab176d05095a392df87599b834f3fd891714858bd7750f05f88212cf882c"
+    },
+    "content/levels/warshak/warshak.jpg": {
+      "source": "hd",
+      "path": "content/levels/warshak/warshak.jpg",
+      "sha256": "a57cbd98ffeabfa4a01fd2e76c66bd5bc67093cebb6cc04c1276165bd6edf885"
+    },
+    "content/music/zuma.mo3": {
+      "source": "hd",
+      "path": "content/music/zuma.mo3",
+      "sha256": "34be1e6ba743eec99b7c3ab0c2467d72faa604facbdb59b81a027b5041d8f906"
+    }
+  },
+  "local": [
+    "content/levels/levels.xml"
+  ]
+}

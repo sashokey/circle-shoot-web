@@ -1,0 +1,34 @@
+{
+  "0": {
+    "duration": 225.792,
+    "subsong": 0
+  },
+  "24": {
+    "duration": 37.632,
+    "subsong": 1
+  },
+  "28": {
+    "duration": 37.632,
+    "subsong": 2
+  },
+  "32": {
+    "duration": 18.816,
+    "subsong": 3
+  },
+  "34": {
+    "duration": 18.816,
+    "subsong": 4
+  },
+  "36": {
+    "duration": 18.816,
+    "subsong": 5
+  },
+  "38": {
+    "duration": 9.408,
+    "subsong": 6
+  },
+  "39": {
+    "duration": 18.816,
+    "subsong": 7
+  }
+}

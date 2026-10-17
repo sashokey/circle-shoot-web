@@ -1,0 +1,9 @@
+node_modules/
+*.log
+/content/images/
+/content/fonts/
+/content/sounds/
+/content/music/
+/content/original-ui/
+/content/levels/*
+!/content/levels/levels.xml
