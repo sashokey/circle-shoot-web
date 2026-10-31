@@ -1,0 +1,3993 @@
+{
+  "images": [
+    {
+      "name": "IMAGE_SHOOTER_BOTTOM",
+      "width": 108,
+      "height": 108,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            162,
+            162,
+            162,
+            162
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            0,
+            0,
+            162,
+            162
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SHOOTER_TOP",
+      "width": 108,
+      "height": 108,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            0,
+            162,
+            162,
+            162
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SHOOTER_TONGUE",
+      "width": 108,
+      "height": 108,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            162,
+            0,
+            162,
+            162
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_EYE_BLINK",
+      "width": 108,
+      "height": 216,
+      "rows": 2,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            0,
+            324,
+            162,
+            324
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_BALL",
+      "width": 32,
+      "height": 1504,
+      "rows": 47,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            0,
+            48,
+            2256
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BLUE_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_BALL",
+      "width": 32,
+      "height": 1600,
+      "rows": 50,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            96,
+            0,
+            48,
+            2400
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            96,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            96,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            96,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            96,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_YELLOW_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_BALL",
+      "width": 32,
+      "height": 1600,
+      "rows": 50,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            144,
+            0,
+            48,
+            2400
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            144,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            144,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            144,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            144,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RED_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_BALL",
+      "width": 32,
+      "height": 1600,
+      "rows": 50,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            48,
+            0,
+            48,
+            2400
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            48,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            48,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            48,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            48,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GREEN_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_BALL",
+      "width": 32,
+      "height": 1600,
+      "rows": 50,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            192,
+            0,
+            48,
+            2400
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            192,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            192,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            192,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            192,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_PURPLE_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_BALL",
+      "width": 32,
+      "height": 1600,
+      "rows": 50,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            240,
+            0,
+            48,
+            2400
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_ACCURACY",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            240,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_BACKWARDS",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            240,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_BOMB",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            240,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_SLOW",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            240,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_WHITE_LIGHT",
+      "width": 18,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2496,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_NEXT_BALL",
+      "width": 84,
+      "height": 14,
+      "rows": 1,
+      "cols": 6,
+      "parts": [
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            234,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            0,
+            0,
+            14,
+            14
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            264,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            14,
+            0,
+            14,
+            14
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            279,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            28,
+            0,
+            14,
+            14
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            249,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            42,
+            0,
+            14,
+            14
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            294,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            56,
+            0,
+            14,
+            14
+          ]
+        },
+        {
+          "file": "content/images/frog.png",
+          "source": [
+            309,
+            633,
+            15,
+            15
+          ],
+          "dest": [
+            70,
+            0,
+            14,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ACCURACY_LIGHT",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2400,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BACKWARDS_LIGHT",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2448,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SLOW_LIGHT",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            288,
+            2544,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BALL_SHADOW",
+      "width": 32,
+      "height": 34,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            134,
+            2595,
+            48,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_BALL_ALPHA",
+      "width": 32,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            0,
+            0,
+            48,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GRAY_EXPLOSION",
+      "width": 70,
+      "height": 1040,
+      "rows": 13,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            395,
+            0,
+            105,
+            1560
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_EXPLOSION",
+      "width": 67,
+      "height": 1479,
+      "rows": 17,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            528,
+            0,
+            100,
+            2210
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SPARKLE",
+      "width": 20,
+      "height": 280,
+      "rows": 14,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            732,
+            2253,
+            30,
+            420
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_HOLE",
+      "width": 88,
+      "height": 88,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            629,
+            0,
+            132,
+            132
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SUNGLOW",
+      "width": 210,
+      "height": 210,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2563,
+            0,
+            315,
+            315
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_HOLE_COVER",
+      "width": 88,
+      "height": 1056,
+      "rows": 12,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            629,
+            132,
+            132,
+            1584
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_COIN",
+      "width": 36,
+      "height": 1080,
+      "rows": 30,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameobjects.png",
+          "source": [
+            340,
+            0,
+            54,
+            1620
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GOD_HEAD",
+      "width": 156,
+      "height": 140,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            363,
+            0,
+            234,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_FROG_LIVES",
+      "width": 26,
+      "height": 24,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            40,
+            18,
+            40,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MENU_BUTTON",
+      "width": 237,
+      "height": 25,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            925,
+            15,
+            354,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ZUMA_BAR",
+      "width": 64,
+      "height": 18,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            773,
+            28,
+            96,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ZUMA_BAR_DONE",
+      "width": 64,
+      "height": 18,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            773,
+            0,
+            96,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MENU_BAR",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            0,
+            107,
+            1280,
+            669
+          ],
+          "dest": [
+            0,
+            34.666666666666664,
+            640,
+            445.3333333333333
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            0,
+            55,
+            184,
+            52
+          ],
+          "dest": [
+            0,
+            0,
+            122.66666666666667,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            184,
+            55,
+            224,
+            52
+          ],
+          "dest": [
+            122.66666666666667,
+            0,
+            42.666666666666664,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            408,
+            55,
+            127,
+            52
+          ],
+          "dest": [
+            165.33333333333334,
+            0,
+            84.66666666666667,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            535,
+            55,
+            224,
+            52
+          ],
+          "dest": [
+            250.0,
+            0,
+            149.33333333333334,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            759,
+            55,
+            130,
+            52
+          ],
+          "dest": [
+            399.3333333333333,
+            0,
+            86.66666666666667,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            889,
+            55,
+            231,
+            52
+          ],
+          "dest": [
+            486,
+            0,
+            47.333333333333336,
+            34.666666666666664
+          ]
+        },
+        {
+          "file": "content/images/gameinterface.png",
+          "source": [
+            1120,
+            55,
+            160,
+            52
+          ],
+          "dest": [
+            533.3333333333334,
+            0,
+            106.66666666666667,
+            34.666666666666664
+          ]
+        }
+      ]
+    },
+    {
+      "name": "images/nebula1",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#000000"
+    },
+    {
+      "name": "levels/tiltspiral/tiltspiral",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tiltspiral/tiltspiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/underover/underover",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/underover/underover.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/underover/left",
+      "width": 640,
+      "height": 362,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/underover/underover.png",
+          "source": [
+            159,
+            177,
+            960,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/underover/right",
+      "width": 329,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/underover/underover.png",
+          "source": [
+            625,
+            0,
+            494,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/longrange/longrange",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/longrange/longrange.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/claw/claw",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/claw/claw.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/triangle/triangle",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/triangle/triangle.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/inversespiral/inversespiral",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/inversespiral/inversespiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/inversespiral/tunnel",
+      "width": 533,
+      "height": 323,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/inversespiral/inversespiral.png",
+          "source": [
+            319,
+            236,
+            800,
+            484
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/loopy/loopy",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/loopy/loopy.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/loopy/tunnel",
+      "width": 400,
+      "height": 227,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/loopy/loopy.png",
+          "source": [
+            519,
+            380,
+            600,
+            340
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/turnaround/turnaround",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/turnaround/turnaround.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/squaresville/squaresville",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/squaresville/squaresville.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/warshak/warshak",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/warshak/warshak.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/overunder/overunder",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/overunder/overunder.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/overunder/tunnel01",
+      "width": 640,
+      "height": 453,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/overunder/overunder.png",
+          "source": [
+            159,
+            40,
+            960,
+            680
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/overunder/tunnel02",
+      "width": 196,
+      "height": 406,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/overunder/overunder.png",
+          "source": [
+            825,
+            111,
+            294,
+            609
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/spaceinvaders/spaceinvaders",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/spaceinvaders/spaceinvaders.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/spaceinvaders/tunnel",
+      "width": 606,
+      "height": 462,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/spaceinvaders/spaceinvaders.png",
+          "source": [
+            210,
+            27,
+            909,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/coaster/coaster",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/coaster/coaster.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/coaster/tunnel01",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/coaster/coaster.png",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/coaster/tunnel02",
+      "width": 221,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/coaster/coaster.png",
+          "source": [
+            787,
+            0,
+            332,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/spiral/spiral",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/spiral/spiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/blackswirley/blackswirley",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/Blackswirley/blackswirley.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/serpents/serpents",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/serpents/serpents.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/serpents/serpentst",
+      "width": 195,
+      "height": 237,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/serpents/_serpentst.gif",
+          "source": [
+            0,
+            0,
+            195,
+            237
+          ],
+          "mask": "content/levels/serpents/_serpentst.gif",
+          "maskOnly": true
+        }
+      ]
+    },
+    {
+      "name": "levels/serpents/serpentsm",
+      "width": 186,
+      "height": 211,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/serpents/_serpentsm.gif",
+          "source": [
+            0,
+            0,
+            186,
+            211
+          ],
+          "mask": "content/levels/serpents/_serpentsm.gif",
+          "maskOnly": true
+        }
+      ]
+    },
+    {
+      "name": "levels/serpents/serpentsb",
+      "width": 166,
+      "height": 179,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/serpents/_serpentsb.gif",
+          "source": [
+            0,
+            0,
+            166,
+            179
+          ],
+          "mask": "content/levels/serpents/_serpentsb.gif",
+          "maskOnly": true
+        }
+      ]
+    },
+    {
+      "name": "levels/serpents/quake01",
+      "width": 293,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/serpents/quake02",
+      "width": 347,
+      "height": 138,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/serpents/quake03",
+      "width": 212,
+      "height": 342,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/serpents/quake04",
+      "width": 258,
+      "height": 306,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/groovefest/groovefest",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/groovefest/groovefest.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/groovefest/groovefest01",
+      "width": 238,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/groovefest/groovefest.png",
+          "source": [
+            762,
+            0,
+            357,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/groovefest/groovefest02",
+      "width": 270,
+      "height": 211,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/groovefest/groovefest.png",
+          "source": [
+            714,
+            404,
+            405,
+            316
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/groovefest/groovefest03",
+      "width": 640,
+      "height": 396,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/groovefest/groovefest.png",
+          "source": [
+            159,
+            126,
+            960,
+            594
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/riverbed/riverbed",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/riverbed/riverbed.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/riverbed/riverbed01",
+      "width": 274,
+      "height": 151,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/riverbed/riverbed02",
+      "width": 366,
+      "height": 151,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/riverbed/riverbed03",
+      "width": 274,
+      "height": 329,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/riverbed/riverbed04",
+      "width": 329,
+      "height": 237,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/riverbed/riverbed05",
+      "width": 130,
+      "height": 300,
+      "rows": 1,
+      "cols": 1,
+      "parts": [],
+      "fill": "#ffffff"
+    },
+    {
+      "name": "levels/snakepit/snakepit",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/snakepit/snakepit.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/targetglyph/targetglyph",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/targetglyph/targetglyph.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/tunnellevel/tunnellevel",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tunnellevel/tunnellevel.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/tunnellevel/tunnel1",
+      "width": 640,
+      "height": 227,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tunnellevel/tunnellevel.png",
+          "source": [
+            159,
+            380,
+            960,
+            340
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/tunnellevel/tunnel2",
+      "width": 410,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tunnellevel/tunnellevel.png",
+          "source": [
+            504,
+            0,
+            615,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_SKY",
+      "width": 854,
+      "height": 167,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            720,
+            1280,
+            250
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_SUN",
+      "width": 87,
+      "height": 92,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2563,
+            315,
+            130,
+            138
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_ARCADE",
+      "width": 489,
+      "height": 92,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2724,
+            901,
+            735,
+            138
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_GAUNTLET",
+      "width": 540,
+      "height": 83,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2648,
+            776,
+            810,
+            125
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_OPTIONS",
+      "width": 597,
+      "height": 86,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2563,
+            647,
+            897,
+            129
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_MOREGAMES",
+      "width": 354,
+      "height": 127,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2924,
+            1038,
+            531,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_QUIT",
+      "width": 360,
+      "height": 141,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2917,
+            1226,
+            540,
+            211
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_DIALOG_BACK",
+      "width": 243,
+      "height": 242,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            0,
+            363,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_DIALOG_BUTTON",
+      "width": 360,
+      "height": 48,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            532,
+            540,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SLIDER_TRACK",
+      "width": 205,
+      "height": 33,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            365,
+            307,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_SLIDER_THUMB",
+      "width": 41,
+      "height": 30,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            414,
+            61,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_DIALOG_CHECKBOX",
+      "width": 100,
+      "height": 46,
+      "rows": 1,
+      "cols": 2,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            462,
+            150,
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTSCREEN",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1442,
+            1440,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTSKY",
+      "width": 854,
+      "height": 176,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            0,
+            1442,
+            1280,
+            264
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTDOOR1",
+      "width": 876,
+      "height": 42,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1280,
+            2336,
+            1312,
+            63
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTDOOR2",
+      "width": 688,
+      "height": 33,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1280,
+            2399,
+            1032,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTDOOR3",
+      "width": 548,
+      "height": 29,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1280,
+            2448,
+            820,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTDOOR4",
+      "width": 424,
+      "height": 36,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1280,
+            2491,
+            636,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTMAINMENUBUTTON",
+      "width": 423,
+      "height": 56,
+      "rows": 1,
+      "cols": 3,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1280,
+            2160,
+            633,
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTBACKBUTTON",
+      "width": 372,
+      "height": 32,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1924,
+            2260,
+            139,
+            48
+          ],
+          "dest": [
+            0,
+            0,
+            93,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2063,
+            2260,
+            139,
+            48
+          ],
+          "dest": [
+            93,
+            0,
+            93,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2202,
+            2260,
+            139,
+            48
+          ],
+          "dest": [
+            186,
+            0,
+            93,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2341,
+            2260,
+            139,
+            48
+          ],
+          "dest": [
+            279,
+            0,
+            93,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTNEXTBUTTON",
+      "width": 376,
+      "height": 32,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1922,
+            2161,
+            141,
+            48
+          ],
+          "dest": [
+            0,
+            0,
+            94,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2063,
+            2161,
+            141,
+            48
+          ],
+          "dest": [
+            94,
+            0,
+            94,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2204,
+            2161,
+            141,
+            48
+          ],
+          "dest": [
+            188,
+            0,
+            94,
+            32
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2345,
+            2161,
+            141,
+            48
+          ],
+          "dest": [
+            282,
+            0,
+            94,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTPLAYBUTTON",
+      "width": 420,
+      "height": 33,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1922,
+            2210,
+            157,
+            49
+          ],
+          "dest": [
+            0,
+            0,
+            105,
+            33
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2079,
+            2210,
+            157,
+            49
+          ],
+          "dest": [
+            105,
+            0,
+            105,
+            33
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2236,
+            2210,
+            157,
+            49
+          ],
+          "dest": [
+            210,
+            0,
+            105,
+            33
+          ]
+        },
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            2393,
+            2210,
+            157,
+            49
+          ],
+          "dest": [
+            315,
+            0,
+            105,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/tiltspiral",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tiltspiral/tiltspiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/underover",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/underover/underover.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/longrange",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/longrange/longrange.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/claw",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/claw/claw.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/triangle",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/triangle/triangle.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/inversespiral",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/inversespiral/inversespiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/loopy",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/loopy/loopy.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/turnaround",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/turnaround/turnaround.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/squaresville",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/squaresville/squaresville.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/warshak",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/warshak/warshak.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/overunder",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/overunder/overunder.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/spaceinvaders",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/spaceinvaders/spaceinvaders.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/coaster",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/coaster/coaster.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/spiral",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/spiral/spiral.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/blackswirley",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/Blackswirley/blackswirley.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/serpents",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/serpents/serpents.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/groovefest",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/groovefest/groovefest.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/riverbed",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/riverbed/riverbed.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/snakepit",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/snakepit/snakepit.jpg",
+          "source": [
+            0,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/targetglyph",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/targetglyph/targetglyph.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "levels/perm_thumbnails/tunnellevel",
+      "width": 320,
+      "height": 240,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/levels/tunnellevel/tunnellevel.jpg",
+          "source": [
+            159,
+            0,
+            960,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_BACK",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/images/menu.png",
+          "source": [
+            1442,
+            720,
+            960,
+            720
+          ]
+        },
+        {
+          "file": "content/original-ui/mmscreen.jpg",
+          "source": [
+            191,
+            331,
+            105,
+            54
+          ],
+          "dest": [
+            191,
+            331,
+            105,
+            54
+          ],
+          "mask": "content/original-ui/_mmeyemask.gif",
+          "cropBeforeMask": true,
+          "invertMask": true
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_CURSOR_POINTER",
+      "width": 54,
+      "height": 54,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/cursor_pointer.gif",
+          "source": [
+            0,
+            0,
+            54,
+            54
+          ],
+          "colorKey": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_CURSOR_HAND",
+      "width": 58,
+      "height": 58,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/cursor_hand.gif",
+          "source": [
+            0,
+            0,
+            58,
+            58
+          ],
+          "colorKey": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_CURSOR_DRAGGING",
+      "width": 54,
+      "height": 54,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/cursor_dragging.gif",
+          "source": [
+            0,
+            0,
+            54,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_CURSOR_TEXT",
+      "width": 54,
+      "height": 54,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/cursor_text.gif",
+          "source": [
+            0,
+            0,
+            54,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_HELP_FRONT",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/helpfront.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            480
+          ],
+          "mask": "content/original-ui/_helpfront.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_HELP_BACK",
+      "width": 618,
+      "height": 363,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/helpback.jpg",
+          "source": [
+            0,
+            0,
+            618,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_EYELEFT",
+      "width": 21,
+      "height": 21,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/mmeyeleft.gif",
+          "source": [
+            0,
+            0,
+            21,
+            21
+          ],
+          "mask": "content/original-ui/_mmeyeleft.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_EYERIGHT",
+      "width": 14,
+      "height": 17,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/mmeyeright.gif",
+          "source": [
+            0,
+            0,
+            14,
+            17
+          ],
+          "mask": "content/original-ui/_mmeyeright.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_EYEMASK",
+      "width": 105,
+      "height": 54,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/_mmeyemask.gif",
+          "source": [
+            0,
+            0,
+            105,
+            54
+          ],
+          "mask": "content/original-ui/_mmeyemask.gif",
+          "maskOnly": true
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_MM_HAT",
+      "width": 101,
+      "height": 107,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/mmhat.jpg",
+          "source": [
+            0,
+            0,
+            101,
+            107
+          ],
+          "mask": "content/original-ui/_mmhat.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVSKY",
+      "width": 640,
+      "height": 116,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advsky.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            116
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVBACK",
+      "width": 640,
+      "height": 250,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advback.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            250
+          ],
+          "mask": "content/original-ui/_advback.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVMIDDLE",
+      "width": 640,
+      "height": 185,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advmiddle.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            185
+          ],
+          "mask": "content/original-ui/_advmiddle.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE1",
+      "width": 640,
+      "height": 292,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple1.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            292
+          ],
+          "mask": "content/original-ui/_advtemple1.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE2",
+      "width": 228,
+      "height": 208,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple2.jpg",
+          "source": [
+            0,
+            0,
+            228,
+            208
+          ],
+          "mask": "content/original-ui/_advtemple2.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE3",
+      "width": 245,
+      "height": 194,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple3.jpg",
+          "source": [
+            0,
+            0,
+            245,
+            194
+          ],
+          "mask": "content/original-ui/_advtemple3.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE4",
+      "width": 291,
+      "height": 249,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple4.jpg",
+          "source": [
+            0,
+            0,
+            291,
+            249
+          ],
+          "mask": "content/original-ui/_advtemple4.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE2V",
+      "width": 228,
+      "height": 208,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple2v.jpg",
+          "source": [
+            0,
+            0,
+            228,
+            208
+          ],
+          "mask": "content/original-ui/_advtemple2v.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTEMPLE3V",
+      "width": 245,
+      "height": 194,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtemple3v.jpg",
+          "source": [
+            0,
+            0,
+            245,
+            194
+          ],
+          "mask": "content/original-ui/_advtemple3v.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR1A",
+      "width": 248,
+      "height": 58,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor1A.jpg",
+          "source": [
+            0,
+            0,
+            248,
+            58
+          ],
+          "mask": "content/original-ui/_advdoor1A.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR1B",
+      "width": 240,
+      "height": 90,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor1B.jpg",
+          "source": [
+            0,
+            0,
+            240,
+            90
+          ],
+          "mask": "content/original-ui/_advdoor1B.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR1C",
+      "width": 228,
+      "height": 56,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor1C.jpg",
+          "source": [
+            0,
+            0,
+            228,
+            56
+          ],
+          "mask": "content/original-ui/_advdoor1C.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR2A",
+      "width": 256,
+      "height": 57,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor2A.jpg",
+          "source": [
+            0,
+            0,
+            256,
+            57
+          ],
+          "mask": "content/original-ui/_advdoor2A.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR2B",
+      "width": 228,
+      "height": 43,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor2B.jpg",
+          "source": [
+            0,
+            0,
+            228,
+            43
+          ],
+          "mask": "content/original-ui/_advdoor2B.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR2C",
+      "width": 204,
+      "height": 35,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor2C.jpg",
+          "source": [
+            0,
+            0,
+            204,
+            35
+          ],
+          "mask": "content/original-ui/_advdoor2C.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR3A",
+      "width": 180,
+      "height": 34,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor3A.jpg",
+          "source": [
+            0,
+            0,
+            180,
+            34
+          ],
+          "mask": "content/original-ui/_advdoor3A.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR3B",
+      "width": 176,
+      "height": 38,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor3B.jpg",
+          "source": [
+            0,
+            0,
+            176,
+            38
+          ],
+          "mask": "content/original-ui/_advdoor3B.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR3C",
+      "width": 224,
+      "height": 41,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor3C.jpg",
+          "source": [
+            0,
+            0,
+            224,
+            41
+          ],
+          "mask": "content/original-ui/_advdoor3C.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR4A",
+      "width": 244,
+      "height": 50,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor4A.jpg",
+          "source": [
+            0,
+            0,
+            244,
+            50
+          ],
+          "mask": "content/original-ui/_advdoor4A.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR4B",
+      "width": 256,
+      "height": 49,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor4B.jpg",
+          "source": [
+            0,
+            0,
+            256,
+            49
+          ],
+          "mask": "content/original-ui/_advdoor4B.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVDOOR4C",
+      "width": 248,
+      "height": 49,
+      "rows": 1,
+      "cols": 4,
+      "parts": [
+        {
+          "file": "content/original-ui/advdoor4C.jpg",
+          "source": [
+            0,
+            0,
+            248,
+            49
+          ],
+          "mask": "content/original-ui/_advdoor4C.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVMAINMENUBUTTON",
+      "width": 375,
+      "height": 42,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advmainmenubutton.jpg",
+          "source": [
+            0,
+            0,
+            375,
+            42
+          ],
+          "mask": "content/original-ui/_advmainmenubutton.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVPLAYBUTTON",
+      "width": 291,
+      "height": 39,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advplaybutton.jpg",
+          "source": [
+            0,
+            0,
+            291,
+            39
+          ],
+          "mask": "content/original-ui/_advplaybutton.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVSTAGE",
+      "width": 76,
+      "height": 16,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advstage.gif",
+          "source": [
+            0,
+            0,
+            76,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVTITLE",
+      "width": 185,
+      "height": 73,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advtitle.jpg",
+          "source": [
+            0,
+            0,
+            185,
+            73
+          ],
+          "mask": "content/original-ui/_advTitle.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_ADVHIGHSCORE",
+      "width": 184,
+      "height": 65,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/advHighscore.gif",
+          "source": [
+            0,
+            0,
+            184,
+            65
+          ],
+          "mask": "content/original-ui/_advHighscore.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTEAGLEGEM",
+      "width": 88,
+      "height": 88,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/GauntEagleGem.gif",
+          "source": [
+            0,
+            0,
+            88,
+            88
+          ],
+          "mask": "content/original-ui/_GauntEagleGem.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTJAGUARGEM",
+      "width": 102,
+      "height": 89,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/GauntJaguarGem.gif",
+          "source": [
+            0,
+            0,
+            102,
+            89
+          ],
+          "mask": "content/original-ui/_GauntJaguarGem.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTSUNGEM",
+      "width": 113,
+      "height": 113,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/GauntSUNGEM.gif",
+          "source": [
+            0,
+            0,
+            113,
+            113
+          ],
+          "mask": "content/original-ui/_GauntSUNGEM.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTTITLE",
+      "width": 168,
+      "height": 68,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/GauntTitle.gif",
+          "source": [
+            0,
+            0,
+            168,
+            68
+          ],
+          "mask": "content/original-ui/_GauntTitle.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTHIGHSCORE",
+      "width": 204,
+      "height": 67,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/GauntHighscore.gif",
+          "source": [
+            0,
+            0,
+            204,
+            67
+          ],
+          "mask": "content/original-ui/_GauntHighscore.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTPRACTICEBUTTON",
+      "width": 381,
+      "height": 32,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/gauntpracticebutton.jpg",
+          "source": [
+            0,
+            0,
+            381,
+            32
+          ],
+          "mask": "content/original-ui/_gauntpracticebutton.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_GAUNTSURVIVALBUTTON",
+      "width": 381,
+      "height": 28,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/gauntsurvivalbutton.jpg",
+          "source": [
+            0,
+            0,
+            381,
+            28
+          ],
+          "mask": "content/original-ui/_gauntsurvivalbutton.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_DIALOG_CHECKBOXCAP",
+      "width": 5,
+      "height": 17,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/checkboxcap.gif",
+          "source": [
+            0,
+            0,
+            5,
+            17
+          ],
+          "mask": "content/original-ui/_checkboxcap.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_DIALOG_CHECKBOXLINE",
+      "width": 1,
+      "height": 14,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/checkboxsliver.gif",
+          "source": [
+            0,
+            0,
+            1,
+            14
+          ],
+          "mask": "content/original-ui/_checkboxsliver.gif"
+        }
+      ]
+    },
+    {
+      "name": "IMAGE_RIGHT_MOUSE",
+      "width": 40,
+      "height": 29,
+      "rows": 1,
+      "cols": 2,
+      "parts": [
+        {
+          "file": "content/original-ui/tut_mouse_r.jpg",
+          "source": [
+            0,
+            0,
+            40,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "name": "images/mmufo",
+      "width": 175,
+      "height": 504,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/mmUFO.jpg",
+          "source": [
+            0,
+            0,
+            175,
+            504
+          ],
+          "mask": "content/original-ui/_mmUFO.gif"
+        }
+      ]
+    },
+    {
+      "name": "images/happyending",
+      "width": 640,
+      "height": 480,
+      "rows": 1,
+      "cols": 1,
+      "parts": [
+        {
+          "file": "content/original-ui/happyending.jpg",
+          "source": [
+            0,
+            0,
+            640,
+            480
+          ]
+        }
+      ]
+    }
+  ],
+  "files": [
+    "content/levels/Blackswirley/blackswirley-1.dat",
+    "content/levels/Blackswirley/blackswirley-2.dat",
+    "content/levels/claw/claw.dat",
+    "content/levels/coaster/coaster.dat",
+    "content/levels/groovefest/groovefest.dat",
+    "content/levels/inversespiral/inversespiral.dat",
+    "content/levels/levels.xml",
+    "content/levels/longrange/longrange.dat",
+    "content/levels/loopy/loopy.dat",
+    "content/levels/overunder/overunder.dat",
+    "content/levels/riverbed/riverbed.dat",
+    "content/levels/serpents/serpents-1.dat",
+    "content/levels/serpents/serpents-2.dat",
+    "content/levels/snakepit/snakepit-1.dat",
+    "content/levels/snakepit/snakepit-2.dat",
+    "content/levels/space/space.dat",
+    "content/levels/spaceinvaders/spaceinvaders.dat",
+    "content/levels/spiral/spiral.dat",
+    "content/levels/squaresville/squaresville.dat",
+    "content/levels/targetglyph/targetglyph.dat",
+    "content/levels/tiltspiral/tiltspiral.dat",
+    "content/levels/triangle/triangle.dat",
+    "content/levels/tunnellevel/tunnellevel.dat",
+    "content/levels/turnaround/turnaround.dat",
+    "content/levels/underover/underover.dat",
+    "content/levels/warshak/warshak.dat"
+  ],
+  "sounds": {
+    "SOUND_BUTTON1": "content/sounds/button1.ogg",
+    "SOUND_BUTTON2": "content/sounds/button2.ogg",
+    "SOUND_BALLCLICK1": "content/sounds/ballclick1.ogg",
+    "SOUND_BALLCLICK2": "content/sounds/ballclick2.ogg",
+    "SOUND_BALLFIRE": "content/sounds/fireball1.ogg",
+    "SOUND_WARNING": "content/sounds/warning1.ogg",
+    "SOUND_EXPLODE": "content/sounds/bombexplode.ogg",
+    "SOUND_EARTHQUAKE": "content/sounds/earthquake.ogg",
+    "SOUND_FROGLAND": "content/sounds/frogland2.ogg",
+    "SOUND_JEWEL_APPEAR": "content/sounds/jewelappear.ogg",
+    "SOUND_JEWEL_DISAPPEAR": "content/sounds/gemvanishes.ogg",
+    "SOUND_JEWEL_HIT": "content/sounds/coingrab.ogg",
+    "SOUND_CHAIN_BONUS": "content/sounds/chain1.ogg",
+    "SOUND_GAP_BONUS": "content/sounds/gapbonus1.ogg",
+    "SOUND_ROLLING": "content/sounds/rolling.ogg",
+    "SOUND_EXTRA_LIFE": "content/sounds/extralife.ogg",
+    "SOUND_SLOWDOWN_BALL": "content/sounds/slowdown1.ogg",
+    "SOUND_BACKWARDS_BALL": "content/sounds/reverse1.ogg",
+    "SOUND_ACCURACY_BALL": "content/sounds/accuracy3.ogg",
+    "SOUND_TRAIL_LIGHT": "content/sounds/lighttrail2.ogg",
+    "SOUND_TRAIL_LIGHT_END": "content/sounds/endoflevelpop1.ogg",
+    "SOUND_GAME_START": "content/sounds/chant1.ogg",
+    "SOUND_LEVEL_UP": "content/sounds/chant2.ogg",
+    "SOUND_BAR_FULL": "content/sounds/chant3.ogg",
+    "SOUND_LOST_LIFE": "content/sounds/chant4.ogg",
+    "SOUND_GAME_OVER": "content/sounds/chant5.ogg",
+    "SOUND_STAGE_COMPLETE": "content/sounds/chant6.ogg",
+    "SOUND_TEMPLE_COMPLETE": "content/sounds/chant8.ogg",
+    "SOUND_BONUS_EXPLOSION": "content/sounds/chant14.ogg",
+    "SOUND_COMBO": "content/sounds/chime1.ogg",
+    "SOUND_CHORAL1": "content/sounds/choral1.ogg",
+    "SOUND_POP": "content/sounds/pop.ogg",
+    "SOUND_UFO": "content/sounds/ufo1.ogg",
+    "SOUND_BALLDESTROYED1": "content/sounds/ballsdestroyed1.ogg",
+    "SOUND_BALLDESTROYED2": "content/sounds/ballsdestroyed2.ogg",
+    "SOUND_BALLDESTROYED3": "content/sounds/ballsdestroyed3.ogg",
+    "SOUND_BALLDESTROYED4": "content/sounds/ballsdestroyed4.ogg",
+    "SOUND_BALLDESTROYED5": "content/sounds/ballsdestroyed5.ogg"
+  },
+  "fontMetrics": "font-metrics.json"
+}

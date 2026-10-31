@@ -1,0 +1,10 @@
+{
+  "name": "zuma-deluxe-wasm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "build": "node tools/build.mjs",
+    "test": "node tools/check-level-masks.mjs && node tools/check-music.mjs"
+  }
+}
